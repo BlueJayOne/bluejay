@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: BlueJay Discord Server
+    url: https://discord.gg/bCGTn2PDGD
+    about: Need help quicker? Reach out to us on Discord!
+  - name: BlueJay Security Centre
+    url: https://bluejay.one/security
+    about: If you have discovered a security vulnerability, do not report it on GitHub. Report it via our security centre to ensure that we can patch these vulnerabilities before disclosing them.
