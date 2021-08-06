@@ -1,6 +1,6 @@
 ---
 name: "Feature request"
-description: "Suggest an idea to be added to BlueJay"
+about: "Suggest an idea to be added to BlueJay"
 labels: "enhancement"
 ---
 
