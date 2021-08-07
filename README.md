@@ -4,3 +4,6 @@ At BlueJay, we work hard to make sure we give you the best experience, regardles
 
 ## Submitting issues and feature requests
 Click the [Issues](https://github.com/BlueJayOne/bluejay/issues) and look for your issue or feature first. If you don't see it, click the [New](https://github.com/BlueJayOne/bluejay/issues/new) and follow the issue template to help make both our job easier and make it easier for us to help you.
+
+## Notes
+Pull requests are ignored.
